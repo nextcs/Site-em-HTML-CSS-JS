@@ -24,3 +24,16 @@ Modo claro (light mode),
 Troca dinâmica de imagem de perfil conforme o tema,
 Estilização moderna com uso de variáveis CSS e
 Efeitos visuais e animações suaves
+
+📌 Personalização:
+Você pode facilmente personalizar:
+Links (GitHub, LinkedIn, etc.),
+Foto de perfil,
+Nome de usuário,
+Cores no CSS (variáveis em :root) e
+Imagens de fundo
+
+📄 Licença:
+Este projeto é de uso livre para estudos e personalização.
+
+💻 Feito por Caique Soares (CsDev)
