@@ -3,8 +3,8 @@
 Este projeto é uma página web pessoal desenvolvida para centralizar e compartilhar links importantes, como portfólio e redes sociais, de forma simples, moderna e responsiva.
 
 🚀 Tecnologias utilizadas
-HTML5
-CSS3
+HTML
+CSS
 JavaScript
 Google Fonts (Inter)
 Ionicons
