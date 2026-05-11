@@ -9,6 +9,8 @@ JavaScript,
 Google Fonts (Inter) e
 Ionicons
 
+
+
 📸 Preview:
 Uma página com:
 Foto de perfil,
@@ -16,6 +18,8 @@ Nome de usuário,
 Links para GitHub e LinkedIn,
 Ícones sociais e
 Alternância entre modo claro e escuro
+
+
 
 🎯 Funcionalidades:
 Layout responsivo (funciona em mobile e desktop),
@@ -25,6 +29,8 @@ Troca dinâmica de imagem de perfil conforme o tema,
 Estilização moderna com uso de variáveis CSS e
 Efeitos visuais e animações suaves
 
+
+
 📌 Personalização:
 Você pode facilmente personalizar:
 Links (GitHub, LinkedIn, etc.),
@@ -32,6 +38,8 @@ Foto de perfil,
 Nome de usuário,
 Cores no CSS (variáveis em :root) e
 Imagens de fundo
+
+
 
 📄 Licença:
 Este projeto é de uso livre para estudos e personalização.
