@@ -45,12 +45,6 @@ Imagem de perfil
  ┣ 📄 style.css
  ┣ 📄 script.js
  
-▶️ Como executar
-Clone o repositório:
-git clone https://github.com/nextcs/seu-repositorio.git
-Acesse a pasta:
-cd seu-repositorio
-Abra o arquivo index.html no navegador
 
 📌 Personalização
 Você pode facilmente personalizar:
